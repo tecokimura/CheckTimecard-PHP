@@ -7,8 +7,12 @@
  */
 
 
-main();
+main($argv);
 
-function main() {
+function main(Array $argv) {
+    
+    
+    
+    
     print("Hello CheckTimecard-PHP");
 }
